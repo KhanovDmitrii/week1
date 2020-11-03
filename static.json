@@ -2,6 +2,7 @@
    "headers":{
       "/*":{
          "X-Author":"khanovds"
+         "Access-Control-Allow-Origin":"*"
       }
    }
 }
