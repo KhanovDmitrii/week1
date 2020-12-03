@@ -4,6 +4,11 @@
          "X-Author":"khanovds",
          "Access-Control-Allow-Origin":"*",
          "Content-Type":  "text/plain; charset=UTF-8"
+      },
+       "/sample":{
+         "X-Author":"khanovds",
+         "Access-Control-Allow-Origin":"*",
+         "Content-Type":  "text/plain; charset=UTF-8"
       }
    }
 }
